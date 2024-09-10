@@ -1,6 +1,3 @@
-class hello()
+class()
 {
-	public static void main()
-	{
-	}
 }
